@@ -1,0 +1,40 @@
+body{
+	background-color: #636e72;
+}
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+       }
+
+.card-deck{
+	margin-top: 2%;
+	margin-left: 3%;
+	width: 100%;
+	height:100%;
+}
+#christenson{
+	background-color:#f5f6fa;
+	padding-top: 20px;
+	padding-bottom: 5px;
+	padding-left: 50px;
+	padding-right: 50px;
+	width: 100%;
+	height: 100%;
+	font-size: 150%;
+	font-family: Tahoma;
+
+}
+#maker{
+	background-color: #e1b12c;
+}
+
+#done{
+background-color:#f5f6fa;  
+	width: 100%;
+	height:100%;
+    margin-bottom: 1%;
+
+}
+#ddress{
+	margin-left: 45%;
+}
